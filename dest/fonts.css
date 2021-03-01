@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'avo';
+    src: url('../fonts/avo.otf') format('otf'),
+        url('../fonts/avo.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+@font-face {
+    font-family: 'avb';
+    src: url('../fonts/avobold.otf') format('otf'),
+        url('../fonts/avobold.otf') format('otf');
+    font-weight: normal;
+    font-style: bold;
+    font-display: fallback;
+}
+@font-face {
+    font-family: 'sfe';
+    src: url('../fonts/sfudinengalt.otf') format('otf'),
+        url('../fonts/sfudinengalt.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+@font-face {
+    font-family: 'avo';
+    src: url('../fonts/sfudinlight.otf') format('otf'),
+        url('../fonts/sfudinlight.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
